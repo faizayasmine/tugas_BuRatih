@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESEP</title>
+</head>
+<body>
+    <h3><center> Resep Nasi Goreng Jawa</center></h3>
+   <center> <img src="nasigorengjawa.jpg" width="225"></center>
+
+<p>
+<h3>Bahan-Bahan:</h3>
+<li>1 porsi Nasi </li>
+<li>3 buah cabai merah</li>
+<li>3 buah cabai rawit</li>
+<li>5 butir bawang merah</li>
+<li>2 siung bawang putih</li>
+<li>2 sdm kecap manis</li>
+<li>1 sdt garam</li>
+<li>1/2 sdt terasi matang </li>
+<li>1 butir telur</li>
+<li>minyak goreng secukupnya</li>
+<li>ayam suwir secukupnya</li>
+
+<hr>
+<p>
+<h3>Langkah-Langkah:</h3>
+</p>
+<ul><img src="bumbu.jpg" width="100">
+Haluskan cabai merah, cabai rawit, bawang merah, bawang putih, dan garam</ul>
+<ul><img src="tumis.jpg" width="100">
+Panaskan minyak dan tumis bumbu halus sampai matang</ul>
+<ul><img src="ayam.jpg" width="100">
+Tambahkan 1 butir telur ayam dan ayam suwir,tumis hingga telur ayam dan ayam suwir dan bumbu halus tercampur merata</ul>
+<ul><img src="nasi.jpg" width="100">
+Tambahkan nasi dan masak sampai berubah warna</ul>
+<ul><img src="kecap.jpg" width="100">
+Masukkan kecap manis, aduk nasi goreng dengan api kecil saja</ul>
+<ul><img src="siap.jpg" width="100">
+Angkat dan sajikan dengan bahan pelengkap lainnya</ul>
+</p>
+</body>
+</html>
